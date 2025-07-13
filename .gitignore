@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Build directories
+build/
+backend/__pycache__/
+.pytest_cache/
+
+# Python virtual environments
+venv/
+.venv/
